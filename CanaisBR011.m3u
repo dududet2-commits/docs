@@ -1,0 +1,1259 @@
+#EXTM3U
+#-
+#- Correção feita por KingRider
+#- Data Atualizada: 24/04/2026
+#-
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="BAND Sports" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | Esportes PPV",Band Sports HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37125.ts
+#EXTINF:-1 tvg-id="Cazé tv 1 HD³" tvg-name="Cazé tv 1 HD³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcEW3aDL9cgg-lIhjByb9TyXD1ZutrcNyPyzoeMMjd2vTvt1c81HZdwz0LmJtbbgH-3VpeEkjYpsLHLPzwo7VZZNWjzg7LNQyTKVo0GBBNhoVREslCqKsYXy64tXD8ISaYwW8lh-9TWFs8i6TQFOGxP0O_yViHWu8U2h7Y55Q77DRhz4eQSGNYUWxVTQk/s1600/cazetv.jpg" group-title="Canais | Esportes PPV",Cazé tv 1 HD³
+http://172.110.219.252/live/47125065/12264670/223746.ts
+#EXTINF:-1 tvg-id="Cazé tv 2 HD³" tvg-name="Cazé tv 2 HD³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcEW3aDL9cgg-lIhjByb9TyXD1ZutrcNyPyzoeMMjd2vTvt1c81HZdwz0LmJtbbgH-3VpeEkjYpsLHLPzwo7VZZNWjzg7LNQyTKVo0GBBNhoVREslCqKsYXy64tXD8ISaYwW8lh-9TWFs8i6TQFOGxP0O_yViHWu8U2h7Y55Q77DRhz4eQSGNYUWxVTQk/s1600/cazetv.jpg" group-title="Canais | Esportes PPV",Cazé tv 2 HD³
+http://172.110.219.252/live/47125065/12264670/223747.ts
+#EXTINF:-1 tvg-id="REDE TV! HD" tvg-name="Rede TV³" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCiYEA2lxX23L2C87ImgSSDpK9maUywIthnTaqp1vzDBq3z7pavhXyau4x6pI-4zqV-UxlwfWtvh9AC3pGf4Ef_XCR_4kpApOZ2QlRQYlH4ns63pVs1sbmemcJcFa5ogHFB1lddJL0iBWWGJsAMQ6bZVux3q_Fb2h9zZdMjs6EiQm3Vx83L8qJV9gd6N4/s1600/tves.webp" group-title="Canais | Esportes PPV",Rede TV³
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS 2 HD³" tvg-name="TNT SPORTS 2 HD³" tvg-logo="https://prostore.app/logos/tnt.png" group-title="Canais | Esportes PPV",TNT SPORTS 2 HD³
+http://prys.xyz:80/live/Sandramaria/22999061026/1026255.ts
+#EXTINF:-1 tvg-id="NBX TV SPORTS" tvg-name="NBX TV SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7QeYOX6bZy1s0dflCpI0OJt1vQvGTpH4y5ObBKU8nVbmqIaobsxI0lY79RAcWNjnD8qHvTx2CM-9867Sf34jmsX-gJPXZ0WT6zgioDfoqyFvfNtlTx53ZVHqP3tZ3CUelP4sn2mB8DrXKhP8k2AsFEC8287K398uENOVuuXI1NtZ41lJGr1w0weTsv8k/s1600/nbxtvsport.png" group-title="Canais | Esportes PPV",NBX TV SPORTS
+https://stmv4.voxtvhd.com.br/nbxtvsports/nbxtvsports/playlist.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 1 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 1 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/99871.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 1 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 1 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63216.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 2 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 2 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63113.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 2 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 2 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/99872.ts
+#EXTINF:-1 tvg-id="DAZN 2 (B)" tvg-name="DAZN 2 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 2 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/168288.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 3 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 3 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/99873.ts
+#EXTINF:-1 tvg-id="DAZN 3 (B)" tvg-name="DAZN 3 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 3 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/168289.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 4 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 4 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/99874.ts
+#EXTINF:-1 tvg-id="DAZN 4 (B)" tvg-name="DAZN 4 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 4 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952370.ts
+#EXTINF:-1 tvg-id="DAZN 5 (A)" tvg-name="DAZN 5 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 5 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176793.ts
+#EXTINF:-1 tvg-id="DAZN 6 (A)" tvg-name="DAZN 6 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 6 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176794.ts
+#EXTINF:-1 tvg-id="DAZN 7 (A)" tvg-name="DAZN 7 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 7 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176795.ts
+#EXTINF:-1 tvg-id="DAZN 8 (A)" tvg-name="DAZN 8 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 8 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176796.ts
+#EXTINF:-1 tvg-id="DAZN 9 (A)" tvg-name="DAZN 9 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 9 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176797.ts
+#EXTINF:-1 tvg-id="Disney+ 1 (B)" tvg-name="Disney+ 1 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952472.ts
+#EXTINF:-1 tvg-id="Star+ HD 11 (B)" tvg-name="Disney+ 1 HD (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176744.ts
+#EXTINF:-1 tvg-id="Disney+ 1 SD (B)" tvg-name="Disney+ 1 SD (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 SD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952474.ts
+#EXTINF:-1 tvg-id="Disney+ 9 (B)" tvg-name="Disney+ 10 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 10 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91275.ts
+#EXTINF:-1 tvg-id="Disney+ 2 (B)" tvg-name="Disney+ 2 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952473.ts
+#EXTINF:-1 tvg-id="Star+ HD 10 (B)" tvg-name="Disney+ 2 HD (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176743.ts
+#EXTINF:-1 tvg-id="Disney+ 2 SD (B)" tvg-name="Disney+ 2 SD (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 SD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952475.ts
+#EXTINF:-1 tvg-id="Star+ HD 9 (B)" tvg-name="Disney+ 3 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 3 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176742.ts
+#EXTINF:-1 tvg-id="Star+ HD 8 (B)" tvg-name="Disney+ 4 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 4 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176741.ts
+#EXTINF:-1 tvg-id="Star+ HD 7 (B)" tvg-name="Disney+ 5 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 5 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176740.ts
+#EXTINF:-1 tvg-id="Disney+ 9 (B)" tvg-name="Disney+ 6 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 6 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91276.ts
+#EXTINF:-1 tvg-id="Disney+ 7 (B)" tvg-name="Disney+ 7 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 7 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931356.ts
+#EXTINF:-1 tvg-id="Disney+ 8 (B)" tvg-name="Disney+ 8 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 8 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931357.ts
+#EXTINF:-1 tvg-id="Disney+ 9 (B)" tvg-name="Disney+ 9 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 9 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931358.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/82245.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 2 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 2 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/82510.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 3 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 3 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/82512.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 4 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 4 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85329.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 5 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 5 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85330.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 6 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 6 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/89548.ts
+#EXTINF:-1 tvg-id="Disney+ HD 7 (A)" tvg-name="Disney+ HD 7 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 7 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931459.ts
+#EXTINF:-1 tvg-id="Disney+ Mosaico (B)" tvg-name="Disney+ Mosaico (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ Mosaico (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952476.ts
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo Rio" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Rio
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37091.ts
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo Rio HD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Rio HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36968.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://i.imgur.com/U5LrKAW.png" group-title="Canais | HBO",HBO
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/65114.ts
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/QTtMuR2.png" group-title="Canais | HBO",HBO 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37086.ts
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.imgur.com/QTtMuR2.png" group-title="Canais | HBO",HBO 2 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36966.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/f181m4I.png" group-title="Canais | HBO",HBO Family
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37085.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/f181m4I.png" group-title="Canais | HBO",HBO Family HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36965.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/U5LrKAW.png" group-title="Canais | HBO",HBO HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36964.ts
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi" tvg-logo="https://i.imgur.com/B6EZjKx.png" group-title="Canais | HBO",HBO Mundi
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37076.ts
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://i.imgur.com/B6EZjKx.png" group-title="Canais | HBO",HBO Mundi HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36913.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus" tvg-logo="https://i.imgur.com/AKrQpLY.png" group-title="Canais | HBO",HBO Plus
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37084.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus E" tvg-logo="https://i.imgur.com/AKrQpLY.png" group-title="Canais | HBO",HBO Plus E
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37083.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus HD" tvg-logo="https://i.imgur.com/AKrQpLY.png" group-title="Canais | HBO",HBO Plus HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36963.ts
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP" tvg-logo="https://i.imgur.com/5YkOnWL.png" group-title="Canais | HBO",HBO POP
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37073.ts
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/5YkOnWL.png" group-title="Canais | HBO",HBO POP HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36911.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/yR8vTk8.png" group-title="Canais | HBO",HBO Signature
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37082.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature HD" tvg-logo="https://i.imgur.com/yR8vTk8.png" group-title="Canais | HBO",HBO Signature HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36962.ts
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://i.imgur.com/KkyoQPI.png" group-title="Canais | HBO",HBO Xtreme
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37075.ts
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme E" tvg-logo="https://i.imgur.com/KkyoQPI.png" group-title="Canais | HBO",HBO Xtreme E
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37074.ts
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/KkyoQPI.png" group-title="Canais | HBO",HBO Xtreme HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36912.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 01 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 01 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/90555.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 02 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 02 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/90556.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 03 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 03 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/90557.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 04 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 04 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/90558.ts
+#EXTINF:-1 tvg-id="MAX 05 (B)" tvg-name="MAX 05 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 05 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952365.ts
+#EXTINF:-1 tvg-id="MAX 06 (B)" tvg-name="MAX 06 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 06 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952366.ts
+#EXTINF:-1 tvg-id="MAX 07 (B)" tvg-name="MAX 07 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 07 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952367.ts
+#EXTINF:-1 tvg-id="MAX 08 (B)" tvg-name="MAX 08 (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 08 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952368.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 1 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 1 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/82375.ts
+#EXTINF:-1 tvg-id="MAX 10 (A)" tvg-name="MAX 10 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 10 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/933926.ts
+#EXTINF:-1 tvg-id="MAX 11 (A)" tvg-name="MAX 11 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 11 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/933927.ts
+#EXTINF:-1 tvg-id="MAX 12 (A)" tvg-name="MAX 12 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 12 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/933928.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 2 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 2 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/82373.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 3 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 3 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/89556.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 4 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 4 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/89557.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 5 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 5 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91220.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 6 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 6 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91221.ts
+#EXTINF:-1 tvg-id="MAX 7 (A)" tvg-name="MAX 7 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 7 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/933923.ts
+#EXTINF:-1 tvg-id="MAX 8 (A)" tvg-name="MAX 8 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 8 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/933924.ts
+#EXTINF:-1 tvg-id="MAX 9 (A)" tvg-name="MAX 9 (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 9 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/933925.ts
+#EXTINF:-1 tvg-id="MAX Mosaico (A)" tvg-name="MAX Mosaico (A)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX Mosaico (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/933929.ts
+#EXTINF:-1 tvg-id="MAX Mosaico (B)" tvg-name="MAX Mosaico (B)" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX Mosaico (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952369.ts
+#EXTINF:-1 tvg-id="NBA League Pass 01 (A)" tvg-name="NBA League Pass 01 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 01 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176855.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 01 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 01 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85565.ts
+#EXTINF:-1 tvg-id="NBA League Pass 02 (A)" tvg-name="NBA League Pass 02 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 02 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176856.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 02 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 02 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85566.ts
+#EXTINF:-1 tvg-id="NBA League Pass 03 (A)" tvg-name="NBA League Pass 03 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 03 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176857.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 03 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 03 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85567.ts
+#EXTINF:-1 tvg-id="NBA League Pass 04 (A)" tvg-name="NBA League Pass 04 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 04 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176858.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 04 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 04 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85568.ts
+#EXTINF:-1 tvg-id="NBA League Pass 05 (A)" tvg-name="NBA League Pass 05 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 05 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/221801.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 05 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 05 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85569.ts
+#EXTINF:-1 tvg-id="NBA League Pass 06 (A)" tvg-name="NBA League Pass 06 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 06 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931984.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 06 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 06 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85570.ts
+#EXTINF:-1 tvg-id="NBA League Pass 07 (A)" tvg-name="NBA League Pass 07 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 07 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931985.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 07 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 07 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85571.ts
+#EXTINF:-1 tvg-id="NBA League Pass 08 (A)" tvg-name="NBA League Pass 08 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 08 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931986.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 08 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 08 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85572.ts
+#EXTINF:-1 tvg-id="NBA League Pass 09 (A)" tvg-name="NBA League Pass 09 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 09 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931987.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA League Pass 09 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 09 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85573.ts
+#EXTINF:-1 tvg-id="NBA League Pass 10 (A)" tvg-name="NBA League Pass 10 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 10 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931988.ts
+#EXTINF:-1 tvg-id="NBA League Pass 10 (B)" tvg-name="NBA League Pass 10 (B)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 10 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/221800.ts
+#EXTINF:-1 tvg-id="NBA League Pass 11 (A)" tvg-name="NBA League Pass 11 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 11 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931989.ts
+#EXTINF:-1 tvg-id="NBA League Pass 12 (A)" tvg-name="NBA League Pass 12 (A)" tvg-logo="https://i.imgur.com/baNssIQ.png" group-title="Canais | NBA League Pass",NBA League Pass 12 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931990.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/NS2k4oJ.png" group-title="Canais | NBA League Pass",NBA TV
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85564.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 1 (A)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 1 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/105804.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 1 HD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 1 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/105801.ts
+#EXTINF:-1 tvg-id="Paramount+ 1 SD (B)" tvg-name="Paramount+ 1 SD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 1 SD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952463.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 2 (A)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 2 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/105805.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 2 HD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 2 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/105802.ts
+#EXTINF:-1 tvg-id="Paramount+ 2 SD (B)" tvg-name="Paramount+ 2 SD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 2 SD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952464.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 3 (A)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 3 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/105806.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 3 HD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 3 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/105803.ts
+#EXTINF:-1 tvg-id="Paramount+ 3 SD (B)" tvg-name="Paramount+ 3 SD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 3 SD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952465.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Paramount+ 4 (A)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 4 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/105807.ts
+#EXTINF:-1 tvg-id="Paramount+ 4 (J)" tvg-name="Paramount+ 4 HD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 4 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/107583.ts
+#EXTINF:-1 tvg-id="Paramount+ 4 SD (B)" tvg-name="Paramount+ 4 SD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 4 SD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952466.ts
+#EXTINF:-1 tvg-id="Paramount+ 5 HD (B)" tvg-name="Paramount+ 5 HD (B)" tvg-logo="https://i.imgur.com/pjCU00K.png" group-title="Canais | Paramount+",Paramount+ 5 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952467.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Mosaico Premiere HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Mosaico Premiere HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/74669.ts
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37060.ts
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 2 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36952.ts
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 3
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37059.ts
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 3 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36951.ts
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 4
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37058.ts
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 4 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36950.ts
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 5
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37057.ts
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 5 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36949.ts
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 6
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37056.ts
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 6 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36906.ts
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 7
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37017.ts
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 7 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36905.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 8
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/54120.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere 8 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64657.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere Clubes
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37016.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/0hDut9Q.png" group-title="Canais | Premiere",Premiere Clubes HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36948.ts
+#EXTINF:-1 tvg-id="AMAZON PRIME 01" tvg-name="Amazon Prime 01" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Amazon Prime 01
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939690.ts
+#EXTINF:-1 tvg-id="AMAZON PRIME 02" tvg-name="Amazon Prime 02" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Amazon Prime 02
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939691.ts
+#EXTINF:-1 tvg-id="AMAZON PRIME 03" tvg-name="Amazon Prime 03" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Amazon Prime 03
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939692.ts
+#EXTINF:-1 tvg-id="Copa do Brasil 1 (S)" tvg-name="Copa do Brasil Prime Video 1 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 1 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/107423.ts
+#EXTINF:-1 tvg-id="Copa do Brasil 2 (S)" tvg-name="Copa do Brasil Prime Video 2 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 2 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/107424.ts
+#EXTINF:-1 tvg-id="Copa do Brasil 3 (S)" tvg-name="Copa do Brasil Prime Video 3 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 3 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/112425.ts
+#EXTINF:-1 tvg-id="Copa do Brasil 4 (S)" tvg-name="Copa do Brasil Prime Video 4 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 4 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/112426.ts
+#EXTINF:-1 tvg-id="Copa do Brasil 5 (S)" tvg-name="Copa do Brasil Prime Video 5 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 5 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/112427.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Prime Video 01 HD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 01 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/86455.ts
+#EXTINF:-1 tvg-id="Prime Video 01 SD (B)" tvg-name="Prime Video 01 SD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 01 SD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952371.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Prime Video 02 HD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 02 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/86456.ts
+#EXTINF:-1 tvg-id="Prime Video 02 SD (B)" tvg-name="Prime Video 02 SD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 02 SD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952372.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Prime Video 03 HD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 03 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/87777.ts
+#EXTINF:-1 tvg-id="Prime Video 03 SD (B)" tvg-name="Prime Video 03 SD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 03 SD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952373.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Prime Video 04 HD (B)" tvg-logo="https://i.imgur.com/0iq8t8j.png" group-title="Canais | Prime Video",Prime Video 04 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/87778.ts
+#EXTINF:-1 tvg-id="record.br" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/mxen2CW.png" group-title="Canais | Record",RecordTV
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37051.ts
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Canais | SBT",SBT
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37048.ts
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Canais | SBT",SBT HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36945.ts
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Canais | SBT",SBT RJ HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/89451.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="https://i.imgur.com/G9nCuZT.png" group-title="Canais | SporTV",SporTV
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37256.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="Canais | SporTV",SporTV 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37044.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 [ALT]" tvg-logo="https://i.imgur.com/dnjAv2m.png" group-title="Canais | SporTV",SporTV 2 [ALT]
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/51052.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="Canais | SporTV",SporTV 2 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36943.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/Srf3e8w.png" group-title="Canais | SporTV",SporTV 3
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37006.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://i.imgur.com/Srf3e8w.png" group-title="Canais | SporTV",SporTV 3 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36942.ts
+#EXTINF:-1 tvg-id="SporTV 4 HD" tvg-name="SporTV 4 HD" tvg-logo="https://i.imgur.com/SMrn7Gf.png" group-title="Canais | SporTV",SporTV 4 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/127664.ts
+#EXTINF:-1 tvg-id="SporTV 5 HD" tvg-name="SporTV 5 HD" tvg-logo="https://i.imgur.com/SMrn7Gf.png" group-title="Canais | SporTV",SporTV 5 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/956438.ts
+#EXTINF:-1 tvg-id="SporTV 6 HD" tvg-name="SporTV 6 HD" tvg-logo="https://i.imgur.com/SMrn7Gf.png" group-title="Canais | SporTV",SporTV 6 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/956439.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://i.imgur.com/G9nCuZT.png" group-title="Canais | SporTV",SporTV HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37255.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://i.imgur.com/s99Fd0l.png" group-title="Canais | TNT",TNT
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37035.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/s99Fd0l.png" group-title="Canais | TNT",TNT HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36934.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas" tvg-logo="https://i.imgur.com/ChIhsIa.png" group-title="Canais | TNT",TNT Novelas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37041.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="https://i.imgur.com/ChIhsIa.png" group-title="Canais | TNT",TNT Novelas HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36940.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Séries" tvg-logo="https://i.imgur.com/VQn5W6y.png" group-title="Canais | TNT",TNT Séries
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37034.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Séries HD" tvg-logo="https://i.imgur.com/VQn5W6y.png" group-title="Canais | TNT",TNT Séries HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36933.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action" tvg-logo="https://i.imgur.com/BGE3Oe4.png" group-title="Canais | Telecine",Telecine Action
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37040.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="https://i.imgur.com/BGE3Oe4.png" group-title="Canais | Telecine",Telecine Action HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36939.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/xyIjiqr.png" group-title="Canais | Telecine",Telecine Cult
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37039.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD" tvg-logo="https://i.imgur.com/xyIjiqr.png" group-title="Canais | Telecine",Telecine Cult HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36901.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun" tvg-logo="https://i.imgur.com/trKxPYe.png" group-title="Canais | Telecine",Telecine Fun
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37005.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD" tvg-logo="https://i.imgur.com/trKxPYe.png" group-title="Canais | Telecine",Telecine Fun HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36938.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://i.imgur.com/KJlG3B9.png" group-title="Canais | Telecine",Telecine Pipoca
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37038.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://i.imgur.com/KJlG3B9.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36937.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium" tvg-logo="https://i.imgur.com/IoWD44d.png" group-title="Canais | Telecine",Telecine Premium
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36994.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD" tvg-logo="https://i.imgur.com/IoWD44d.png" group-title="Canais | Telecine",Telecine Premium HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36936.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/mSBEaWi.png" group-title="Canais | Telecine",Telecine Touch
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36995.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD" tvg-logo="https://i.imgur.com/mSBEaWi.png" group-title="Canais | Telecine",Telecine Touch HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36935.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow" tvg-logo="https://i.imgur.com/u1Dm4Z0.png" group-title="Canais | Variedades",Multishow
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37070.ts
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/u1Dm4Z0.png" group-title="Canais | Variedades",Multishow HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36957.ts
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News" tvg-logo="https://i.imgur.com/VN1Z2T0.png" group-title="Canais | Notícias",Band News
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37126.ts
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News HD" tvg-logo="https://i.imgur.com/VN1Z2T0.png" group-title="Canais | Notícias",Band News HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/42411.ts
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="Band News HD³" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais | Notícias",Band News HD³
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37126.ts
+#EXTINF:-1 tvg-id="Bloomberg News HD" tvg-name="Bloomberg News HD" tvg-logo="https://i.imgur.com/jtbhzj5.png" group-title="Canais | Notícias",Bloomberg News HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/947304.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CBN Rio" tvg-logo="https://i.imgur.com/NEuQRZJ.png" group-title="Canais | Notícias",CBN Rio
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/100714.ts
+#EXTINF:-1 tvg-id="CBN Rio HD" tvg-name="CBN Rio HD" tvg-logo="https://i.imgur.com/NEuQRZJ.png" group-title="Canais | Notícias",CBN Rio HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/216551.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/50cg2k5.png" group-title="Canais | Notícias",CNN Brasil
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/65040.ts
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cnn_brasil.png" group-title="Canais | Notícias",CNN BRASIL
+http://prys.xyz:80/live/Sandramaria/22999061026/1026509.ts
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://i.imgur.com/50cg2k5.png" group-title="Canais | Notícias",CNN Brasil HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/65039.ts
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL HD³" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Canais | Notícias",CNN BRASIL HD³
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/65039.ts
+#EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money" tvg-logo="https://i.imgur.com/DCzGtce.png" group-title="Canais | Notícias",CNN Brasil Money
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225829.ts
+#EXTINF:-1 tvg-id="CNN Brasil Money HD" tvg-name="CNN Brasil Money HD" tvg-logo="https://i.imgur.com/DCzGtce.png" group-title="Canais | Notícias",CNN Brasil Money HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225849.ts
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBONEWS" tvg-logo="https://imgur.com/Wu4ykxo.png" group-title="Canais | Notícias",Globo News HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36917.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GloboNews" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20News.png" group-title="Canais | Notícias",GloboNews
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37093.ts
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GloboNews HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20News.png" group-title="Canais | Notícias",GloboNews HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36917.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Jovem Pan News HD (A)" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Notícias",Jovem Pan News HD (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/83443.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Jovem Pan News HD (B)" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Notícias",Jovem Pan News HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85005.ts
+#EXTINF:-1 tvg-id="band.rio.br" tvg-name="Band Rio HD" tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="Canais | Band",Band Rio HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62088.ts
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/YNPhY7d.png" group-title="Canais | Documentarios",Animal Planet
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37128.ts
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/YNPhY7d.png" group-title="Canais | Documentarios",Animal Planet HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36992.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/B1DjY6Y.png" group-title="Canais | Documentarios",Discovery Channel
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37116.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/B1DjY6Y.png" group-title="Canais | Documentarios",Discovery Channel HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36985.ts
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery Home & Health" tvg-logo="https://i.imgur.com/1oJpopm.png" group-title="Canais | Documentarios",Discovery Home & Health
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36984.ts
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.imgur.com/1oJpopm.png" group-title="Canais | Documentarios",Discovery Home & Health HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37115.ts
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/DdeeMP7.png" group-title="Canais | Documentarios",Discovery Science
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/51002.ts
+#EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/DdeeMP7.png" group-title="Canais | Documentarios",Discovery Science HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36922.ts
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater HD" tvg-logo="https://i.imgur.com/cgowSsJ.png" group-title="Canais | Documentarios",Discovery Theater HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36983.ts
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37112.ts
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36982.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/jJoaVsR.png" group-title="Canais | Documentarios",Discovery World
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64498.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/jJoaVsR.png" group-title="Canais | Documentarios",Discovery World HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36981.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37104.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37105.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36977.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 3
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62745.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 3 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36976.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 4
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85335.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 4 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36970.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 4 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85336.ts
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 5
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37098.ts
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 5 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36971.ts
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 6
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/129622.ts
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN 6 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 6 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/129623.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73051.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[24hrs] 101 Dalmatas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] 101 Dalmatas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/70109.ts
+#EXTINF:-1 tvg-name="[24hrs] 3 Palavrinhas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] 3 Palavrinhas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985998.ts
+#EXTINF:-1 tvg-id="Familia Urso 24HRS" tvg-name="[24hrs] A Familia Urso" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] A Familia Urso
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/70391.ts
+#EXTINF:-1 tvg-id="A FAZENDA DO ZENON" tvg-name="[24hrs] A Fazenda do Zenon" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] A Fazenda do Zenon
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/217388.ts
+#EXTINF:-1 tvg-name="[24hrs] A Feiticeira" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] A Feiticeira
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985999.ts
+#EXTINF:-1 tvg-id=" A GUARDA DO LEÃO" tvg-name="[24hrs] A Guarda do Leão" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] A Guarda do Leão
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/217386.ts
+#EXTINF:-1 tvg-id="A Pantera Cor-de-Rosa  [24hrs]" tvg-name="[24hrs] A Pantera Cor-de-Rosa" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] A Pantera Cor-de-Rosa
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962580.ts
+#EXTINF:-1 tvg-id=" A TURMA DO PATETA" tvg-name="[24hrs] A Turma do Pateta" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] A Turma do Pateta
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/217861.ts
+#EXTINF:-1 tvg-name="[24hrs] Aladdin 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Aladdin 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985927.ts
+#EXTINF:-1 tvg-name="[24hrs] As Meninas Superpoderosas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] As Meninas Superpoderosas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985928.ts
+#EXTINF:-1 tvg-id=" Babyfirst" tvg-name="[24hrs] Babyfirst" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Babyfirst
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/935079.ts
+#EXTINF:-1 tvg-id="Backyardigans  [24hrs]" tvg-name="[24hrs] Backyardigans" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Backyardigans
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962571.ts
+#EXTINF:-1 tvg-name="[24hrs] Ben 10" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Ben 10
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985929.ts
+#EXTINF:-1 tvg-name="[24hrs] Bita e os Animais" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Bita e os Animais
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985842.ts
+#EXTINF:-1 tvg-name="[24hrs] Bob Esponja" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Bob Esponja
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985930.ts
+#EXTINF:-1 tvg-name="[24hrs] Bozo Show" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Bozo Show
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002878.ts
+#EXTINF:-1 tvg-name="[24hrs] Cão Coragem" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Cão Coragem
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985803.ts
+#EXTINF:-1 tvg-name="[24hrs] Cascão Maratona" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Cascão Maratona
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/61884.ts
+#EXTINF:-1 tvg-name="[24hrs] Cavalo de Fogo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Cavalo de Fogo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62272.ts
+#EXTINF:-1 tvg-name="[24hrs] Caverna do Dragão" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Caverna do Dragão
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985851.ts
+#EXTINF:-1 tvg-name="[24hrs] Caverna do Dragão 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Caverna do Dragão 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985931.ts
+#EXTINF:-1 tvg-name="[24hrs] Central Kids" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Central Kids
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985847.ts
+#EXTINF:-1 tvg-id="Chapolin [24hrs]" tvg-name="[24hrs] Chapolin" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Chapolin
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962574.ts
+#EXTINF:-1 tvg-name="[24hrs] Chaves Desenho" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Chaves Desenho
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985804.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[24hrs] Clube das Winx" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Clube das Winx
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/70301.ts
+#EXTINF:-1 tvg-name="[24hrs] Corrida Maluca" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Corrida Maluca
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986000.ts
+#EXTINF:-1 tvg-name="[24hrs] Croods" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Croods
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985864.ts
+#EXTINF:-1 tvg-name="[24hrs] Dennis o Pimentinha" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Dennis o Pimentinha
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985805.ts
+#EXTINF:-1 tvg-name="[24hrs] Desenhos Biblicos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Desenhos Biblicos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985806.ts
+#EXTINF:-1 tvg-id="Desenhos Classicos" tvg-name="[24hrs] Desenhos Classicos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Desenhos Classicos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/935084.ts
+#EXTINF:-1 tvg-name="[24hrs] Desenhos Disney" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Desenhos Disney
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985807.ts
+#EXTINF:-1 tvg-name="[24hrs] Digimon" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Digimon
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985808.ts
+#EXTINF:-1 tvg-name="[24hrs] Dot" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Dot
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002876.ts
+#EXTINF:-1 tvg-name="[24hrs] Doug" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Doug
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985934.ts
+#EXTINF:-1 tvg-name="[24hrs] Dragon Ball" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Dragon Ball
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985810.ts
+#EXTINF:-1 tvg-name="[24hrs] Dragon Ball Super" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Dragon Ball Super
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985935.ts
+#EXTINF:-1 tvg-name="[24hrs] Dragon Ball Z" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Dragon Ball Z
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985811.ts
+#EXTINF:-1 tvg-id="familia dinosauro [24hrs]" tvg-name="[24hrs] Família Dinossauros" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Família Dinossauros
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962572.ts
+#EXTINF:-1 tvg-name="[24hrs] Formiga Atomica" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Formiga Atomica
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985812.ts
+#EXTINF:-1 tvg-name="[24hrs] Futurama" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Futurama
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985862.ts
+#EXTINF:-1 tvg-name="[24hrs] Galinha Pintadinha" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Galinha Pintadinha
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/39570.ts
+#EXTINF:-1 tvg-name="[24hrs] Galinha Pintadinha" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Galinha Pintadinha
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985941.ts
+#EXTINF:-1 tvg-name="[24hrs] Guardiões da Galaxia" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Guardiões da Galaxia
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985813.ts
+#EXTINF:-1 tvg-name="[24hrs] He-Man" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] He-Man
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985943.ts
+#EXTINF:-1 tvg-id="Hello Kitty  [24hrs]" tvg-name="[24hrs] Hello Kitty" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Hello Kitty
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962564.ts
+#EXTINF:-1 tvg-name="[24hrs] Hércules" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Hércules
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985814.ts
+#EXTINF:-1 tvg-name="[24hrs] História Biblica para Criança" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] História Biblica para Criança
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985852.ts
+#EXTINF:-1 tvg-name="[24hrs] Historias Disney" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Historias Disney
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985945.ts
+#EXTINF:-1 tvg-name="[24hrs] Homem Aranha" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Homem Aranha
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985815.ts
+#EXTINF:-1 tvg-name="[24hrs] Homem de Ferro" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Homem de Ferro
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985816.ts
+#EXTINF:-1 tvg-name="[24hrs] Incrível Hulk" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Incrível Hulk
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985817.ts
+#EXTINF:-1 tvg-name="[24hrs] Jackie Chan" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Jackie Chan
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985818.ts
+#EXTINF:-1 tvg-name="[24hrs] Jaspion" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Jaspion
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985819.ts
+#EXTINF:-1 tvg-name="[24hrs] Jiraya O Incrível Ninja" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Jiraya O Incrível Ninja
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985820.ts
+#EXTINF:-1 tvg-name="[24hrs] Liga da Justica" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Liga da Justica
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985843.ts
+#EXTINF:-1 tvg-name="[24hrs] Luluzinha" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Luluzinha
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985951.ts
+#EXTINF:-1 tvg-name="[24hrs] Masha e o Urso" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Masha e o Urso
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/61887.ts
+#EXTINF:-1 tvg-name="[24hrs] Medabots" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Medabots
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985821.ts
+#EXTINF:-1 tvg-name="[24hrs] MegaMan" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] MegaMan
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985953.ts
+#EXTINF:-1 tvg-name="[24hrs] Miliki Family" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Miliki Family
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002875.ts
+#EXTINF:-1 tvg-id="Mickey e Donald [24hrs]" tvg-name="[24hrs] Mix de Desenho" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Mix de Desenho
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962576.ts
+#EXTINF:-1 tvg-name="[24hrs] Mortal Kombat" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Mortal Kombat
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985954.ts
+#EXTINF:-1 tvg-id="Mr Magoo 24HRS" tvg-name="[24hrs] Mr Magoo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Mr Magoo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/70392.ts
+#EXTINF:-1 tvg-name="[24hrs] Mr. Pickles" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Mr. Pickles
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985860.ts
+#EXTINF:-1 tvg-id="Mundo Bita  [24hrs]" tvg-name="[24hrs] Mundo Bita" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Mundo Bita
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962565.ts
+#EXTINF:-1 tvg-name="[24hrs] Naruto" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Naruto
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985823.ts
+#EXTINF:-1 tvg-name="[24hrs] Naruto Shippuden DUB" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Naruto Shippuden DUB
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985824.ts
+#EXTINF:-1 tvg-name="[24hrs] O Fantástico Mundo de Bobby" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] O Fantástico Mundo de Bobby
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985825.ts
+#EXTINF:-1 tvg-name="[24hrs] O Inspetor" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] O Inspetor
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985826.ts
+#EXTINF:-1 tvg-name="[24hrs] O Maskara" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] O Maskara
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985955.ts
+#EXTINF:-1 tvg-name="[24hrs] O Pequeno Furry" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] O Pequeno Furry
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002874.ts
+#EXTINF:-1 tvg-id="O Show da Luna [24hrs]" tvg-name="[24hrs] O Show da Luna" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] O Show da Luna
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962578.ts
+#EXTINF:-1 tvg-id="Dragon Ball kai" tvg-name="[24hrs] O Show dos Looney Tunes" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] O Show dos Looney Tunes
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/935020.ts
+#EXTINF:-1 tvg-name="[24hrs] Os Anjinhos Rugrats" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Os Anjinhos Rugrats
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985827.ts
+#EXTINF:-1 tvg-name="[24hrs] Os Cavaleiros do Zodíaco" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Os Cavaleiros do Zodíaco
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985828.ts
+#EXTINF:-1 tvg-name="[24hrs] Os Flintstones" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Os Flintstones
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985956.ts
+#EXTINF:-1 tvg-id="Os Pinguins de Madagascar [24hrs]" tvg-name="[24hrs] Os Pinguins de Madagascar" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Os Pinguins de Madagascar
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962573.ts
+#EXTINF:-1 tvg-name="[24hrs] Os Simpsons" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Os Simpsons
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985863.ts
+#EXTINF:-1 tvg-name="[24hrs] Os Simpsons 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Os Simpsons 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985957.ts
+#EXTINF:-1 tvg-name="[24hrs] Papa-Léguas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Papa-Léguas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985830.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[24hrs] Patrulha Canina" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Patrulha Canina
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63074.ts
+#EXTINF:-1 tvg-name="[24hrs] Patrulha Salvadora" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Patrulha Salvadora
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002877.ts
+#EXTINF:-1 tvg-name="[24hrs] Peppa Pig" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Peppa Pig
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985831.ts
+#EXTINF:-1 tvg-name="[24hrs] Peppa Pig 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Peppa Pig 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985849.ts
+#EXTINF:-1 tvg-name="[24hrs] Pernalonga" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Pernalonga
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985958.ts
+#EXTINF:-1 tvg-name="[24hrs] Phineas e Ferb" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Phineas e Ferb
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985996.ts
+#EXTINF:-1 tvg-name="[24hrs] Pica Pau" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Pica Pau
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985995.ts
+#EXTINF:-1 tvg-name="[24hrs] Pinky e o Cérebro" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Pinky e o Cérebro
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985832.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[24hrs] Pocoyo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Pocoyo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/61888.ts
+#EXTINF:-1 tvg-name="[24hrs] Pokemon" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Pokemon
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985833.ts
+#EXTINF:-1 tvg-name="[24hrs] Popeye O Marinheiro" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Popeye O Marinheiro
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985994.ts
+#EXTINF:-1 tvg-name="[24hrs] Rambo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Rambo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985850.ts
+#EXTINF:-1 tvg-name="[24hrs] Rick e Morty" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Rick e Morty
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985861.ts
+#EXTINF:-1 tvg-name="[24hrs] Scooby-Doo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Scooby-Doo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985991.ts
+#EXTINF:-1 tvg-name="[24hrs] Shark Academy  Canções para crianças" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Shark Academy  Canções para crianças
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002872.ts
+#EXTINF:-1 tvg-id="Sherk [24hrs]" tvg-name="[24hrs] Shrek" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Shrek
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962579.ts
+#EXTINF:-1 tvg-id="Sitio do picapáu amarelo [24hrs]" tvg-name="[24hrs] Sítio do Picapau Amarelo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Sítio do Picapau Amarelo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962568.ts
+#EXTINF:-1 tvg-id="SONIC X [24hrs]" tvg-name="[24hrs] Sonic X" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Sonic X
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962570.ts
+#EXTINF:-1 tvg-name="[24hrs] Steven Universe" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Steven Universe
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985837.ts
+#EXTINF:-1 tvg-name="[24hrs] Super Choque" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Super Choque
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985846.ts
+#EXTINF:-1 tvg-id="Super Wings [24hrs]" tvg-name="[24hrs] Super Wings" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Super Wings
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962575.ts
+#EXTINF:-1 tvg-name="[24hrs] Superman" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Superman
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985989.ts
+#EXTINF:-1 tvg-name="[24hrs] Tartarugas Ninjas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Tartarugas Ninjas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985988.ts
+#EXTINF:-1 tvg-id="Teletubbies  [24hrs]" tvg-name="[24hrs] Teletubbies" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Teletubbies
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962566.ts
+#EXTINF:-1 tvg-name="[24hrs] Thundercats" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Thundercats
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985980.ts
+#EXTINF:-1 tvg-id="TICO E TECO: DEFENSORES DA LEI" tvg-name="[24hrs] Tico e Teco" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Tico e Teco
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/217398.ts
+#EXTINF:-1 tvg-name="[24hrs] Timão e Pumba" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Timão e Pumba
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985981.ts
+#EXTINF:-1 tvg-name="[24hrs] Tom e Jerry" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Tom e Jerry
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985983.ts
+#EXTINF:-1 tvg-id="TOY STORY [24hrs]" tvg-name="[24hrs] Toy Story" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Toy Story
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962569.ts
+#EXTINF:-1 tvg-name="[24hrs] Tres Espias Demais" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Tres Espias Demais
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985838.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[24hrs] Turma da Monica" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Turma da Monica
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/39571.ts
+#EXTINF:-1 tvg-id="Lilo & Stitc [24hrs]" tvg-name="[24hrs] TV Globinho" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] TV Globinho
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962577.ts
+#EXTINF:-1 tvg-name="[24hrs] Uma Família da Pesada" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Uma Família da Pesada
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985839.ts
+#EXTINF:-1 tvg-name="[24hrs] Ursinhos Carinhos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Ursinhos Carinhos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985985.ts
+#EXTINF:-1 tvg-name="[24hrs] X-Man" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] X-Man
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985986.ts
+#EXTINF:-1 tvg-name="[24hrs] Xena" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Xena
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985840.ts
+#EXTINF:-1 tvg-name="[24hrs] Yu Yu Hakusho" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Yu Yu Hakusho
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985997.ts
+#EXTINF:-1 tvg-name="[24hrs] Yu Yu Hakusho 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Yu Yu Hakusho 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985848.ts
+#EXTINF:-1 tvg-name="[24hrs] Yu-Gi-Oh" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Yu-Gi-Oh
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985987.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[24hrs] Zé Buscapé" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Zé Buscapé
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/70116.ts
+#EXTINF:-1 tvg-id="zubumafu  [24hrs]" tvg-name="[24hrs] Zoboomafoo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hrs] Zoboomafoo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/962567.ts
+#EXTINF:-1 tvg-name="[24hs] 101 Dálmatas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] 101 Dálmatas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986039.ts
+#EXTINF:-1 tvg-name="[24hs] 3 Palavrinhas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] 3 Palavrinhas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985655.ts
+#EXTINF:-1 tvg-name="[24hs] A Família Addams" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] A Família Addams
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985656.ts
+#EXTINF:-1 tvg-name="[24hs] A Família Addams 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] A Família Addams 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986041.ts
+#EXTINF:-1 tvg-name="[24hs] A Formiga Atômica" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] A Formiga Atômica
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986040.ts
+#EXTINF:-1 tvg-name="[24hs] A Mansão Foster Para Amigos Imaginários" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] A Mansão Foster Para Amigos Imaginários
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985658.ts
+#EXTINF:-1 tvg-name="[24hs] A Pantera Cor de Rosa" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] A Pantera Cor de Rosa
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985659.ts
+#EXTINF:-1 tvg-name="[24hs] A Vaca e o Frango" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] A Vaca e o Frango
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985660.ts
+#EXTINF:-1 tvg-name="[24hs] A Vida Moderna de Rocko" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] A Vida Moderna de Rocko
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985661.ts
+#EXTINF:-1 tvg-name="[24hs] Aladdin" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Aladdin
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985662.ts
+#EXTINF:-1 tvg-name="[24hs] Alf o ETeimoso" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Alf o ETeimoso
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985663.ts
+#EXTINF:-1 tvg-name="[24hs] Arqueiro Verde" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Arqueiro Verde
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985664.ts
+#EXTINF:-1 tvg-name="[24hs] As Aventuras de Tintin" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] As Aventuras de Tintin
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985665.ts
+#EXTINF:-1 tvg-name="[24hs] As Meninas Super Poderosas 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] As Meninas Super Poderosas 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985666.ts
+#EXTINF:-1 tvg-name="[24hs] As Tartarugas Ninjas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] As Tartarugas Ninjas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985625.ts
+#EXTINF:-1 tvg-name="[24hs] As Terríveis Aventuras de Billy e Mandy" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] As Terríveis Aventuras de Billy e Mandy
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985667.ts
+#EXTINF:-1 tvg-name="[24hs] Authentic Games" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Authentic Games
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986042.ts
+#EXTINF:-1 tvg-name="[24hs] Avatar a Lenda de Aang" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Avatar a Lenda de Aang
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985669.ts
+#EXTINF:-1 tvg-name="[24hs] Baby Looney Tunes" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Baby Looney Tunes
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985670.ts
+#EXTINF:-1 tvg-name="[24hs] Baby Shark" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Baby Shark
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985624.ts
+#EXTINF:-1 tvg-name="[24hs] Babyfirst" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Babyfirst
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985632.ts
+#EXTINF:-1 tvg-name="[24hs] Backyardigans" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Backyardigans
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985671.ts
+#EXTINF:-1 tvg-name="[24hs] Bananas de Pijamas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Bananas de Pijamas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985672.ts
+#EXTINF:-1 tvg-name="[24hs] Ben 10 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Ben 10 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985673.ts
+#EXTINF:-1 tvg-name="[24hs] Ben 10 Omniverse" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Ben 10 Omniverse
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985674.ts
+#EXTINF:-1 tvg-name="[24hs] Beyblade" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Beyblade
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985621.ts
+#EXTINF:-1 tvg-name="[24hs] Beyblade 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Beyblade 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986043.ts
+#EXTINF:-1 tvg-name="[24hs] Bob Esponja" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Bob Esponja
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986025.ts
+#EXTINF:-1 tvg-name="[24hs] Bob Esponja 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Bob Esponja 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985645.ts
+#EXTINF:-1 tvg-name="[24hs] Bob Esponja 3" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Bob Esponja 3
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986030.ts
+#EXTINF:-1 tvg-name="[24hs] Bob Esponja 4" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Bob Esponja 4
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985676.ts
+#EXTINF:-1 tvg-name="[24hs] Bob o Construtor" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Bob o Construtor
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985677.ts
+#EXTINF:-1 tvg-name="[24hs] Bob o Trem" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Bob o Trem
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985678.ts
+#EXTINF:-1 tvg-name="[24hs] Bob Zoom" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Bob Zoom
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985679.ts
+#EXTINF:-1 tvg-name="[24hs] Boku no Hero Academia" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Boku no Hero Academia
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985680.ts
+#EXTINF:-1 tvg-name="[24hs] Bolofofos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Bolofofos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985681.ts
+#EXTINF:-1 tvg-name="[24hs] Booba" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Booba
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985682.ts
+#EXTINF:-1 tvg-name="[24hs] Cadillacs e Dinossauros" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Cadillacs e Dinossauros
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985684.ts
+#EXTINF:-1 tvg-name="[24hs] Caillou" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Caillou
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985685.ts
+#EXTINF:-1 tvg-name="[24hs] Capitão Caverna" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Capitão Caverna
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985686.ts
+#EXTINF:-1 tvg-name="[24hs] Capitão Planeta" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Capitão Planeta
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985687.ts
+#EXTINF:-1 tvg-name="[24hs] Castelo Rá Tim Bum 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Castelo Rá Tim Bum 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985688.ts
+#EXTINF:-1 tvg-name="[24hs] Castelo Rá-Tim-Bum" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Castelo Rá-Tim-Bum
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986033.ts
+#EXTINF:-1 tvg-name="[24hs] Cavalo de Fogo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Cavalo de Fogo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985689.ts
+#EXTINF:-1 tvg-name="[24hs] Caverna Do Dragão 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Caverna Do Dragão 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985654.ts
+#EXTINF:-1 tvg-name="[24hs] Changeman" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Changeman
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985690.ts
+#EXTINF:-1 tvg-name="[24hs] Chaotic" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Chaotic
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985691.ts
+#EXTINF:-1 tvg-name="[24hs] Cine Kids" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Cine Kids
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986031.ts
+#EXTINF:-1 tvg-name="[24hs] Clarêncio O Otimista" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Clarêncio O Otimista
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985694.ts
+#EXTINF:-1 tvg-name="[24hs] Cocoricó" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Cocoricó
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985633.ts
+#EXTINF:-1 tvg-name="[24hs] Coragem o Cão Covarde" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Coragem o Cão Covarde
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985696.ts
+#EXTINF:-1 tvg-name="[24hs] Corrida Maluca 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Corrida Maluca 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985697.ts
+#EXTINF:-1 tvg-name="[24hs] Cybercops" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Cybercops
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985698.ts
+#EXTINF:-1 tvg-name="[24hs] Daniel Tigre" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Daniel Tigre
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985613.ts
+#EXTINF:-1 tvg-name="[24hs] Desenhos Bíblicos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Desenhos Bíblicos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986018.ts
+#EXTINF:-1 tvg-name="[24hs] Desenhos Classicos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Desenhos Classicos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985637.ts
+#EXTINF:-1 tvg-name="[24hs] Detetives do Prédio Azul" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Detetives do Prédio Azul
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985700.ts
+#EXTINF:-1 tvg-name="[24hs] Digimon 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Digimon 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985701.ts
+#EXTINF:-1 tvg-name="[24hs] Dora a Aventureira" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Dora a Aventureira
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985702.ts
+#EXTINF:-1 tvg-name="[24hs] Doug 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Doug 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985703.ts
+#EXTINF:-1 tvg-name="[24hs] Dragon Ball Kai" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Dragon Ball Kai
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985614.ts
+#EXTINF:-1 tvg-name="[24hs] Dragon Ball Super" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Dragon Ball Super
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985641.ts
+#EXTINF:-1 tvg-name="[24hs] Dragon Ball Super 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Dragon Ball Super 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985704.ts
+#EXTINF:-1 tvg-name="[24hs] Dragon Ball Z" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Dragon Ball Z
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985640.ts
+#EXTINF:-1 tvg-name="[24hs] Du Dudu e Edu" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Du Dudu e Edu
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985705.ts
+#EXTINF:-1 tvg-name="[24hs] Duck Dodgers" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Duck Dodgers
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985706.ts
+#EXTINF:-1 tvg-name="[24hs] Ducktales" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Ducktales
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985623.ts
+#EXTINF:-1 tvg-name="[24hs] Fate" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Fate
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985708.ts
+#EXTINF:-1 tvg-name="[24hs] Flash" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Flash
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986020.ts
+#EXTINF:-1 tvg-name="[24hs] Flash Gordon" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Flash Gordon
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985709.ts
+#EXTINF:-1 tvg-name="[24hs] Fly O Pequeno Guerreiro" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Fly O Pequeno Guerreiro
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985710.ts
+#EXTINF:-1 tvg-name="[24hs] Frajola e Piu-Piu" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Frajola e Piu-Piu
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985711.ts
+#EXTINF:-1 tvg-name="[24hs] Freakazoid" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Freakazoid
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985712.ts
+#EXTINF:-1 tvg-name="[24hs] FullMetal Alchemist" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] FullMetal Alchemist
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985713.ts
+#EXTINF:-1 tvg-name="[24hs] Futurama" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Futurama
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985714.ts
+#EXTINF:-1 tvg-name="[24hs] Galinha Pintadinha" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Galinha Pintadinha
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985715.ts
+#EXTINF:-1 tvg-name="[24hs] Galinha Pintadinha MIni" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Galinha Pintadinha MIni
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985716.ts
+#EXTINF:-1 tvg-name="[24hs] Garfield" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Garfield
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985717.ts
+#EXTINF:-1 tvg-name="[24hs] Gárgulas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Gárgulas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985719.ts
+#EXTINF:-1 tvg-name="[24hs] Gasparzinho" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Gasparzinho
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986035.ts
+#EXTINF:-1 tvg-name="[24hs] Gato Félix" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Gato Félix
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985718.ts
+#EXTINF:-1 tvg-name="[24hs] Gummy Bear" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Gummy Bear
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986036.ts
+#EXTINF:-1 tvg-name="[24hs] He-Man 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] He-Man 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985720.ts
+#EXTINF:-1 tvg-name="[24hs] Hércules 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Hércules 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985722.ts
+#EXTINF:-1 tvg-name="[24hs] Homem Aranha" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Homem Aranha
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986038.ts
+#EXTINF:-1 tvg-name="[24hs] Hora da Aventura" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Hora da Aventura
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985721.ts
+#EXTINF:-1 tvg-name="[24hs] Jackie Chan e Amigos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Jackie Chan e Amigos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985723.ts
+#EXTINF:-1 tvg-name="[24hs] Jaspion 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Jaspion 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985724.ts
+#EXTINF:-1 tvg-name="[24hs] Jetsons" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Jetsons
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986026.ts
+#EXTINF:-1 tvg-name="[24hs] Jiban" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Jiban
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985725.ts
+#EXTINF:-1 tvg-name="[24hs] Jiraiya" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Jiraiya
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985726.ts
+#EXTINF:-1 tvg-name="[24hs] Jonny Quest" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Jonny Quest
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985727.ts
+#EXTINF:-1 tvg-name="[24hs] Josie e As Gatinhas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Josie e As Gatinhas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985616.ts
+#EXTINF:-1 tvg-name="[24hs] Jovens Titãs em Ação" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Jovens Titãs em Ação
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985728.ts
+#EXTINF:-1 tvg-name="[24hs] Kids Mais" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Kids Mais
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985636.ts
+#EXTINF:-1 tvg-name="[24hs] Larva" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Larva
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985647.ts
+#EXTINF:-1 tvg-name="[24hs] Lego Aventuras" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Lego Aventuras
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985729.ts
+#EXTINF:-1 tvg-name="[24hs] Little Angel" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Little Angel
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985730.ts
+#EXTINF:-1 tvg-name="[24hs] Medabots 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Medabots 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985731.ts
+#EXTINF:-1 tvg-name="[24hs] Mega Man 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Mega Man 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985732.ts
+#EXTINF:-1 tvg-name="[24hs] Mickey Mouse" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Mickey Mouse
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985733.ts
+#EXTINF:-1 tvg-name="[24hs] Miraculous Ladybug" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Miraculous Ladybug
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985734.ts
+#EXTINF:-1 tvg-name="[24hs] Moranguinho" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Moranguinho
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985626.ts
+#EXTINF:-1 tvg-name="[24hs] Mortal Kombat 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Mortal Kombat 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985735.ts
+#EXTINF:-1 tvg-name="[24hs] Mundo Bita 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Mundo Bita 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985737.ts
+#EXTINF:-1 tvg-name="[24hs] Naruto 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Naruto 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986022.ts
+#EXTINF:-1 tvg-name="[24hs] Naruto Shippuden 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Naruto Shippuden 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985620.ts
+#EXTINF:-1 tvg-name="[24hs] NickOnline" tvg-logo="https://x1co.com.br/logo.png" group-title="Canais | 24h Infantil",[24hs] NickOnline
+https://x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-name="[24hs] O Fantástico Mundo de Bobby 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] O Fantástico Mundo de Bobby 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985738.ts
+#EXTINF:-1 tvg-name="[24hs] O Incrível Mundo de Gumball" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] O Incrível Mundo de Gumball
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985739.ts
+#EXTINF:-1 tvg-name="[24hs] O Laboratório de Dexter" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] O Laboratório de Dexter
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985740.ts
+#EXTINF:-1 tvg-name="[24hs] O Máskara 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] O Máskara 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985742.ts
+#EXTINF:-1 tvg-name="[24hs] O Mundo de Beakman" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] O Mundo de Beakman
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985741.ts
+#EXTINF:-1 tvg-name="[24hs] O Reino Infantil" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] O Reino Infantil
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985630.ts
+#EXTINF:-1 tvg-name="[24hs] One Piece" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] One Piece
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985619.ts
+#EXTINF:-1 tvg-name="[24hs] Os Castores Pirados" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Os Castores Pirados
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985743.ts
+#EXTINF:-1 tvg-name="[24hs] Os Cavaleiros do Zodíaco 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Os Cavaleiros do Zodíaco 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985744.ts
+#EXTINF:-1 tvg-name="[24hs] Os Flintstones" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Os Flintstones
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985746.ts
+#EXTINF:-1 tvg-name="[24hs] Os Padrinhos Mágicos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Os Padrinhos Mágicos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985747.ts
+#EXTINF:-1 tvg-name="[24hs] Os Simpsons" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Os Simpsons
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985748.ts
+#EXTINF:-1 tvg-name="[24hs] Os Super Patos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Os Super Patos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986049.ts
+#EXTINF:-1 tvg-name="[24hs] Otaku" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Otaku
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986019.ts
+#EXTINF:-1 tvg-name="[24hs] Papa Leguas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Papa Leguas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986032.ts
+#EXTINF:-1 tvg-name="[24hs] Patati e Patatá" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Patati e Patatá
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986050.ts
+#EXTINF:-1 tvg-name="[24hs] Pato Donald" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Pato Donald
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986051.ts
+#EXTINF:-1 tvg-name="[24hs] Patrulha Canina" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Patrulha Canina
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985628.ts
+#EXTINF:-1 tvg-name="[24hs] Peppa Pig 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Peppa Pig 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986052.ts
+#EXTINF:-1 tvg-name="[24hs] Pernalonga e Seus Amigos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Pernalonga e Seus Amigos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986053.ts
+#EXTINF:-1 tvg-name="[24hs] Pica Pau 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Pica Pau 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986054.ts
+#EXTINF:-1 tvg-name="[24hs] Pinky e o Cérebro" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Pinky e o Cérebro
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985750.ts
+#EXTINF:-1 tvg-name="[24hs] Pocoyo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Pocoyo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985751.ts
+#EXTINF:-1 tvg-name="[24hs] Pokemon" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Pokemon
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985643.ts
+#EXTINF:-1 tvg-name="[24hs] Pokémon Minecraft" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Pokémon Minecraft
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986061.ts
+#EXTINF:-1 tvg-name="[24hs] Popeye" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Popeye
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985754.ts
+#EXTINF:-1 tvg-name="[24hs] Power Rangers" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Power Rangers
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986062.ts
+#EXTINF:-1 tvg-name="[24hs] Rick and Morty" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Rick and Morty
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986063.ts
+#EXTINF:-1 tvg-name="[24hs] Robocop Animado" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Robocop Animado
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986064.ts
+#EXTINF:-1 tvg-name="[24hs] Rookie Blue" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Rookie Blue
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985639.ts
+#EXTINF:-1 tvg-name="[24hs] Sailor Moon" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Sailor Moon
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986065.ts
+#EXTINF:-1 tvg-name="[24hs] Sakura Card Captors" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Sakura Card Captors
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986066.ts
+#EXTINF:-1 tvg-name="[24hs] Samurai Warriors" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Samurai Warriors
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986067.ts
+#EXTINF:-1 tvg-name="[24hs] Scooby Doo 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Scooby Doo 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986068.ts
+#EXTINF:-1 tvg-name="[24hs] Show Da Luna" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Show Da Luna
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985652.ts
+#EXTINF:-1 tvg-name="[24hs] Sítio do Pica-Pau Amarelo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Sítio do Pica-Pau Amarelo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986071.ts
+#EXTINF:-1 tvg-name="[24hs] Smurfs" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Smurfs
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986069.ts
+#EXTINF:-1 tvg-name="[24hs] Steven Universo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Steven Universo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985756.ts
+#EXTINF:-1 tvg-name="[24hs] Street Fighter" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Street Fighter
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985615.ts
+#EXTINF:-1 tvg-name="[24hs] Street Fighter 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Street Fighter 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985757.ts
+#EXTINF:-1 tvg-name="[24hs] Street Fighter II" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Street Fighter II
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986021.ts
+#EXTINF:-1 tvg-name="[24hs] Super Amigos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Super Amigos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985758.ts
+#EXTINF:-1 tvg-name="[24hs] Super Campeoes" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Super Campeoes
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986037.ts
+#EXTINF:-1 tvg-name="[24hs] Super Choque 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Super Choque 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986070.ts
+#EXTINF:-1 tvg-name="[24hs] Taz Mania" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Taz Mania
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986023.ts
+#EXTINF:-1 tvg-name="[24hs] Teletubbies" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Teletubbies
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985627.ts
+#EXTINF:-1 tvg-name="[24hs] Thundercats 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Thundercats 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985651.ts
+#EXTINF:-1 tvg-name="[24hs] Timão e Pumba 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Timão e Pumba 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986073.ts
+#EXTINF:-1 tvg-name="[24hs] Tokusato" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Tokusato
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985622.ts
+#EXTINF:-1 tvg-name="[24hs] Tom Sem Freio" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Tom Sem Freio
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985617.ts
+#EXTINF:-1 tvg-name="[24hs] Toro e Pancho" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Toro e Pancho
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985618.ts
+#EXTINF:-1 tvg-name="[24hs] Três Espiãs Demais 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Três Espiãs Demais 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985760.ts
+#EXTINF:-1 tvg-name="[24hs] Trolls" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Trolls
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986074.ts
+#EXTINF:-1 tvg-name="[24hs] Turma da Mônica" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Turma da Mônica
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985761.ts
+#EXTINF:-1 tvg-name="[24hs] Turma do Pateta" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Turma do Pateta
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986075.ts
+#EXTINF:-1 tvg-name="[24hs] X-Men" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] X-Men
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985650.ts
+#EXTINF:-1 tvg-name="[24hs] Zé Colméia" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Zé Colméia
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986077.ts
+#EXTINF:-1 tvg-name="[24hrs]  O... Coitado" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs]  O... Coitado
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002723.ts
+#EXTINF:-1 tvg-name="[24hrs] 911" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] 911
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985866.ts
+#EXTINF:-1 tvg-name="[24hrs] A Grande Familia" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] A Grande Familia
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985841.ts
+#EXTINF:-1 tvg-name="[24hrs] Aeroporto" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Aeroporto
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985857.ts
+#EXTINF:-1 tvg-name="[24hrs] Amores que Enganam" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Amores que Enganam
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002732.ts
+#EXTINF:-1 tvg-name="[24hrs] Auto Esporte" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Auto Esporte
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002879.ts
+#EXTINF:-1 tvg-name="[24hrs] Breaking Bad" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Breaking Bad
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985802.ts
+#EXTINF:-1 tvg-name="[24hrs] Breaking Bad" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Breaking Bad
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985853.ts
+#EXTINF:-1 tvg-name="[24hrs] Brilhante Victoria" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Brilhante Victoria
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985868.ts
+#EXTINF:-1 tvg-name="[24hrs] Caldeirao Com Mion" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Caldeirao Com Mion
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002881.ts
+#EXTINF:-1 tvg-name="[24hrs] Chapolin Colorado" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Chapolin Colorado
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985932.ts
+#EXTINF:-1 tvg-name="[24hrs] Chaves" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Chaves
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985933.ts
+#EXTINF:-1 tvg-name="[24hrs] Divina Christina" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Divina Christina
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002731.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[24hrs] Documentário Discovery" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Documentário Discovery
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/69689.ts
+#EXTINF:-1 tvg-name="[24hrs] Dois Homens e Meio" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Dois Homens e Meio
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985809.ts
+#EXTINF:-1 tvg-name="[24hrs] Eu a Patroa e as Crianças" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Eu a Patroa e as Crianças
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985905.ts
+#EXTINF:-1 tvg-name="[24hrs] Fala Dercy" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Fala Dercy
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002730.ts
+#EXTINF:-1 tvg-name="[24hrs] Familia Moderna" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Familia Moderna
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985867.ts
+#EXTINF:-1 tvg-name="[24hrs] Gugu Toninho e Augusto" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Gugu Toninho e Augusto
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002721.ts
+#EXTINF:-1 tvg-name="[24hrs] Homens de Preto" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Homens de Preto
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985947.ts
+#EXTINF:-1 tvg-id="Jackass 24H" tvg-name="[24hrs] Jackass" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Jackass
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64785.ts
+#EXTINF:-1 tvg-name="[24hrs] Kenan e Kel" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Kenan e Kel
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985949.ts
+#EXTINF:-1 tvg-name="[24hrs] Largados e Pelados" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Largados e Pelados
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985858.ts
+#EXTINF:-1 tvg-name="[24hrs] Malhação Anos 2000" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Malhação Anos 2000
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985870.ts
+#EXTINF:-1 tvg-name="[24hrs] Mr. Bean" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Mr. Bean
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985822.ts
+#EXTINF:-1 tvg-id="Show Gospel 24HRS" tvg-name="[24hrs] Músicas Gospel" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Músicas Gospel
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/65251.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[24hrs] Os Trapalhões" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Os Trapalhões
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/69790.ts
+#EXTINF:-1 tvg-name="[24hrs] Os Vingadores" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Os Vingadores
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985829.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[24hrs] Pegadinhas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Pegadinhas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62947.ts
+#EXTINF:-1 tvg-id="PEGADINHAS AMERICANAS [24hrs]" tvg-name="[24hrs] Pegadinhas Americanas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Pegadinhas Americanas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/132050.ts
+#EXTINF:-1 tvg-name="[24hrs] Pesadelo na Cozinha" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Pesadelo na Cozinha
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985865.ts
+#EXTINF:-1 tvg-name="[24hrs] Power Slap" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Power Slap
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985856.ts
+#EXTINF:-1 tvg-name="[24hrs] Quilos Mortais" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Quilos Mortais
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985859.ts
+#EXTINF:-1 tvg-name="[24hrs] Rambo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Rambo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985834.ts
+#EXTINF:-1 tvg-name="[24hrs] Ratinho Sem Filtro" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Ratinho Sem Filtro
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002729.ts
+#EXTINF:-1 tvg-name="[24hrs] Refollow" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Refollow
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002728.ts
+#EXTINF:-1 tvg-name="[24hrs] Silvio Santos Vale Mais Que Dinheiro" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Silvio Santos Vale Mais Que Dinheiro
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002727.ts
+#EXTINF:-1 tvg-name="[24hrs] Smallville" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Smallville
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985835.ts
+#EXTINF:-1 tvg-name="[24hrs] Sobrenatural" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Sobrenatural
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985836.ts
+#EXTINF:-1 tvg-name="[24hrs] South Park" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] South Park
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985990.ts
+#EXTINF:-1 tvg-name="[24hrs] Spooksville" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Spooksville
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002725.ts
+#EXTINF:-1 tvg-name="[24hrs] Todo Mundo Odeia o Chris" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Todo Mundo Odeia o Chris
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985982.ts
+#EXTINF:-1 tvg-name="[24hrs] Trato Feito" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Trato Feito
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985869.ts
+#EXTINF:-1 tvg-name="[24hrs] Um Genio Chamado Jo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Um Genio Chamado Jo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002722.ts
+#EXTINF:-1 tvg-name="[24hrs] Um Maluco no Pedaço" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Um Maluco no Pedaço
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985984.ts
+#EXTINF:-1 tvg-name="[24hrs] Vai Que Cola" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Vai Que Cola
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985844.ts
+#EXTINF:-1 tvg-name="[24hrs] Vai Que Cola 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hrs] Vai Que Cola 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985845.ts
+#EXTINF:-1 tvg-name="[24hs] A Grande Família" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] A Grande Família
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985657.ts
+#EXTINF:-1 tvg-name="[24hs] Aeroporto Area Restrita" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Aeroporto Area Restrita
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986024.ts
+#EXTINF:-1 tvg-name="[24hs] As Visões de Raven" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] As Visões de Raven
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985668.ts
+#EXTINF:-1 tvg-name="[24hs] Big Bang A Teoria" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Big Bang A Teoria
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985646.ts
+#EXTINF:-1 tvg-name="[24hs] Big Bang Theory" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Big Bang Theory
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985675.ts
+#EXTINF:-1 tvg-name="[24hs] Brasil Visto de Cima" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Brasil Visto de Cima
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986044.ts
+#EXTINF:-1 tvg-name="[24hs] Brooklyn Nine-Nine" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Brooklyn Nine-Nine
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985683.ts
+#EXTINF:-1 tvg-name="[24hs] Chapolin Colorado 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Chapolin Colorado 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985692.ts
+#EXTINF:-1 tvg-name="[24hs] Chaves 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Chaves 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985693.ts
+#EXTINF:-1 tvg-name="[24hs] Clipes Funk" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Clipes Funk
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985695.ts
+#EXTINF:-1 tvg-name="[24hs] Clipes Sertanejo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Clipes Sertanejo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986045.ts
+#EXTINF:-1 tvg-name="[24hs] CSI Miami" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] CSI Miami
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985635.ts
+#EXTINF:-1 tvg-name="[24hs] De Volta Para o Futuro" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] De Volta Para o Futuro
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985699.ts
+#EXTINF:-1 tvg-name="[24hs] Drake e Josh" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Drake e Josh
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986046.ts
+#EXTINF:-1 tvg-name="[24hs] Escolinha do Professor Raimundo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Escolinha do Professor Raimundo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986028.ts
+#EXTINF:-1 tvg-name="[24hs] Eu a Patroa e as Crianças 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Eu a Patroa e as Crianças 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985707.ts
+#EXTINF:-1 tvg-name="[24hs] Geek" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Geek
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985638.ts
+#EXTINF:-1 tvg-name="[24hs] Kenan e Kel" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Kenan e Kel
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985642.ts
+#EXTINF:-1 tvg-name="[24hs] Largados e Pelados" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Largados e Pelados
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985648.ts
+#EXTINF:-1 tvg-name="[24hs] MIB Homens de Preto" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] MIB Homens de Preto
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986047.ts
+#EXTINF:-1 tvg-name="[24hs] Mr. Bean 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Mr. Bean 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985736.ts
+#EXTINF:-1 tvg-name="[24hs] O Homem Que Veio Do Ceu" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] O Homem Que Veio Do Ceu
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986027.ts
+#EXTINF:-1 tvg-name="[24hs] Os Caça Fantasmas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Os Caça Fantasmas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985745.ts
+#EXTINF:-1 tvg-name="[24hs] Os Roni" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Os Roni
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986048.ts
+#EXTINF:-1 tvg-name="[24hs] Os Trapalhões" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Os Trapalhões
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985749.ts
+#EXTINF:-1 tvg-name="[24hs] Pesadelo na Cozinha" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Pesadelo na Cozinha
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986034.ts
+#EXTINF:-1 tvg-name="[24hs] Podcast" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Podcast
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985653.ts
+#EXTINF:-1 tvg-name="[24hs] Podcast Bola e Carioca" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Podcast Bola e Carioca
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986055.ts
+#EXTINF:-1 tvg-name="[24hs] Podcast Flow" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Podcast Flow
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986056.ts
+#EXTINF:-1 tvg-name="[24hs] Podcast O Assunto" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Podcast O Assunto
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985752.ts
+#EXTINF:-1 tvg-name="[24hs] Podcast Os Sócios" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Podcast Os Sócios
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986057.ts
+#EXTINF:-1 tvg-name="[24hs] Podcast Podpah" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Podcast Podpah
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986058.ts
+#EXTINF:-1 tvg-name="[24hs] Podcast Primo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Podcast Primo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986059.ts
+#EXTINF:-1 tvg-name="[24hs] Podcast Rafinha Bastos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Podcast Rafinha Bastos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985753.ts
+#EXTINF:-1 tvg-name="[24hs] Podcast Venus" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Podcast Venus
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986060.ts
+#EXTINF:-1 tvg-name="[24hs] South Park 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] South Park 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985755.ts
+#EXTINF:-1 tvg-name="[24hs] The Walking Dead 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] The Walking Dead 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986072.ts
+#EXTINF:-1 tvg-name="[24hs] Todo Mundo Odeia O Chris" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Todo Mundo Odeia O Chris
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985644.ts
+#EXTINF:-1 tvg-name="[24hs] Todo Mundo Odeia o Chris 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Todo Mundo Odeia o Chris 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985759.ts
+#EXTINF:-1 tvg-name="[24hs] Um Maluco no Pedaço 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Um Maluco no Pedaço 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985762.ts
+#EXTINF:-1 tvg-name="[24hs] Uma Família da Pesada 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Uma Família da Pesada 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985763.ts
+#EXTINF:-1 tvg-name="[24hs] Vai Que Cola 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Vai Que Cola 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985764.ts
+#EXTINF:-1 tvg-name="[24hs] Vikings" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[24hs] Vikings
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/986076.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] A Vida de Um Bodybuilder" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] A Vida de Um Bodybuilder
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/100629.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] África Selvagem" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] África Selvagem
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81845.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Albert Einstein" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Albert Einstein
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/39576.ts
+#EXTINF:-1 tvg-id="Velozes e Furiosos 24h" tvg-name="[DOC] Amazônia Selvagem" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Amazônia Selvagem
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81836.ts
+#EXTINF:-1 tvg-id="TV Beltrão FHD" tvg-name="[DOC] Antárdida" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Antárdida
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/162986.ts
+#EXTINF:-1 tvg-id="tv.jornal.br" tvg-name="[DOC] Civilizações Antigas" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Civilizações Antigas
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91330.ts
+#EXTINF:-1 tvg-id="POLICIA 24 HORAS" tvg-name="[DOC] Elvis Presley" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Elvis Presley
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/132045.ts
+#EXTINF:-1 tvg-id="Rei do Gado 24h" tvg-name="[DOC] Japão Yakuza" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Japão Yakuza
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81841.ts
+#EXTINF:-1 tvg-id="A Gata Comeu 24h" tvg-name="[DOC] Jornada ao Começo dos Tempos" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Jornada ao Começo dos Tempos
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/81840.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Leonardo da Vinci" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Leonardo da Vinci
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/61969.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] O Mais Procurado do Mundo" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] O Mais Procurado do Mundo
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91740.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] O Que Aconteceu com o YAHOO!" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] O Que Aconteceu com o YAHOO!
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91738.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Os 20 Dias de Lázaro" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Os 20 Dias de Lázaro
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91570.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Putin" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Putin
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91728.ts
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="[DOC] Sertão Velho Cerrado" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Sertão Velho Cerrado
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/142707.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Somália" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Somália
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/90974.ts
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="[DOC] Vida Selvagem Mundo Animal" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Variados",[DOC] Vida Selvagem Mundo Animal
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/142706.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass (A)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/100815.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass 1 HD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass 1 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/94688.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass 2 HD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass 2 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/92272.ts
+#EXTINF:-1 tvg-id="UFC Fight Pass FHD (B)" tvg-name="UFC Fight Pass 3 HD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass 3 HD (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/177136.ts
